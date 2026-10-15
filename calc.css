@@ -1,6 +1,7 @@
 body {
 font-family: Arial, sans-serif;
 background-image: url(image/imagemFundo.png);
+background-size: cover;
 display: flex;
 justify-content: center;
 align-items: center;

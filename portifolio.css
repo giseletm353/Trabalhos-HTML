@@ -6,6 +6,7 @@ body {
 }
 header {
     background-image: url(image/imagemFundo.png);
+    background-size: cover;
     font-size: 30px;
     color: #333843;
     padding: 30px;
